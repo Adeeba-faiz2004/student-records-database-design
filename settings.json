@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "PROJECT",
+            "database": "C:\\Users\\Faizan gondal\\OneDrive\\Desktop\\Database.db"
+        }
+    ]
+}
